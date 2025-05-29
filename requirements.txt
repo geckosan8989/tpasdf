@@ -1,1 +1,1 @@
-credits @ https://github.com/thehooked/credit_system.git@d75be7ded8603408c4a86cbfe1d23caf921f0d92
+credits @ git+https://github.com/thehooked/credit_system.git@d75be7ded8603408c4a86cbfe1d23caf921f0d92
